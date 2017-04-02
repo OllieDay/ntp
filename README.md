@@ -2,7 +2,7 @@
 Library for querying NTP servers.
 
 ## Usage
-```
+```C
 #include "ntp.h"
 
 struct ntp_packet packet;
